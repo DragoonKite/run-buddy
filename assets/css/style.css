@@ -23,6 +23,7 @@ header h1 {
   margin: 0;
   display: inline;
 }
+
 header a {
   text-decoration: none;
   color: #fce138;
@@ -77,6 +78,14 @@ section {
   background-size: cover;
   background-position: center;
   position: relative;
+}
+
+.hero h2{
+  font-weight: bold;
+  font-size: 36px;
+  color: #fce138;
+  margin: 0;
+  box-align: right;
 }
 /* Hero Style End */
 

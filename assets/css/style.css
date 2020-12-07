@@ -33,6 +33,8 @@ header a {
 
 header nav {
   margin: 7px 0;
+  justify-content: space-between;
+  flex-wrap: wrap;
 }
 
 header nav ul li {

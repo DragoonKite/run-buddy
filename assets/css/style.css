@@ -470,14 +470,14 @@ section {
   display: grid;
   grid-template-columns: 1fr repeat(2, 4fr);
   grid-template-rows: repeat(5, 1fr) 2fr;
-  border: 2px solidvar(--secondary-color);
+  border: 2px solid var(--secondary-color);
   color:var(--secondary-color);
   font-size: 1.2rem;
 }
 
 .service-grid-item{
   padding: 15px 0;
-  border: 2px solidvar(--secondary-color);
+  border: 2px solid var(--secondary-color);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -550,7 +550,7 @@ section {
 
 .contact-form input, 
 .contact-form textarea{
-  border: 1px solidvar(--secondary-color);
+  border: 1px solid var(--secondary-color);
   display: block;
   padding: 7px 15px;
   font-size: 16px;

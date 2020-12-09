@@ -465,7 +465,7 @@ section {
 }
 
 .service-grid-container{
-  background: light yellow;
+  background: lightyellow;
   width: 80%;
   display: grid;
   grid-template-columns: 1fr repeat(2, 4fr);
